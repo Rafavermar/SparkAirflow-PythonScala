@@ -1,1 +1,5 @@
-ECHO est  activado.
+venv
+__pycache__
+*.pyo
+.git
+*.pyc
